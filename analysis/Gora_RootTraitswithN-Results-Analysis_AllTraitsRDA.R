@@ -1,6 +1,6 @@
-#### Thesis Results Analysis-RDAs Run for ALL Traits ####
-###  #### Thesis Results Analysis-Ordinations ####
-###  Gora_Thesis-Results-Analysis_AllTraitsRDA.R
+#### RootTraitswithN Results Analysis-RDAs Run for ALL Traits ####
+###  #### RootTraitswithN Results Analysis-Ordinations ####
+###  Gora_RootTraitswithN-Results-Analysis_AllTraitsRDA.R
 ###  by Sarah Gora
 ###  Date created: Nov 11, 2023
 
