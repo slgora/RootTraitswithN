@@ -1,5 +1,5 @@
-#### Thesis Results Analysis- Stacked Bar Chart ####
-###  Gora_Thesis-Results-Analysis_StackedBarChart.R
+#### RootTraitswithN Results Analysis- Stacked Bar Chart ####
+###  Gora_RootTraitswithN-Results-Analysis_StackedBarChart.R
 ###  by Sarah Gora
 ###  Date created: March 21, 2022
 
