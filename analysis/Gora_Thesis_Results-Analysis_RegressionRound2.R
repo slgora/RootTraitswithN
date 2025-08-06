@@ -1,5 +1,5 @@
-#### Thesis Results Analysis- Linear Regressions, Kevin Wilcox Suggestion ####
-###  Gora_Thesis-Results-Analysis_RegressionsRound2.R
+#### RootTraitswithN Results Analysis- Linear Regressions, Kevin Wilcox Suggestion ####
+###  Gora_RootTraitswithN-Results-Analysis_RegressionsRound2.R
 ###  by Sarah Gora
 ###  Date created: March 7, 2022
 
