@@ -1,5 +1,5 @@
-#### Thesis Figures Code ####
-###  Gora_Thesis_JustFiguresCode.R
+#### TRootTraitswithN Figures Code ####
+###  Gora_RootTraitswithN_JustFiguresCode.R
 ###  by Sarah Gora
 ###  Date created: May 1, 2022
 
