@@ -1,5 +1,5 @@
-#### Thesis Results Analysis- Stacked Bar Chart, Added MC Data ####
-###  Gora_Thesis-Results-Analysis_StackedBarChart_MC.R
+#### RootTraitswithN Results Analysis- Stacked Bar Chart, Added MC Data ####
+###  Gora_RootTraitswithN-Results-Analysis_StackedBarChart_MC.R
 ###  by Sarah Gora
 ###  Date created: February 17, 2023
 
