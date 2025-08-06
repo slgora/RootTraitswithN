@@ -1,4 +1,4 @@
-#### Thesis Results Analysis- Adonis ####
+#### RootTraitswithN Results Analysis- Adonis ####
 ###  Gora_RootTraitswithN-Results-Analysis_Adonis.R
 ###  by Sarah Gora
 ###  Date created: March 24, 2022
