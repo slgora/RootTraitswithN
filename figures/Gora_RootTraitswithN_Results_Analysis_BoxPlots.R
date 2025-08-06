@@ -1,5 +1,5 @@
-#### Thesis Results Analysis- Box Plots ####
-###  Gora_Thesis_Results_Analysis_BoxPlots.R
+#### RootTraitswithN Results Analysis- Box Plots ####
+###  Gora_RootTraitswithN_Results_Analysis_BoxPlots.R
 ###  by Sarah Gora
 ###  Date created: Dec 30, 2021
 
