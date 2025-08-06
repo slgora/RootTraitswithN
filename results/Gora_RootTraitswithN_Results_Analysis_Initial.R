@@ -1,5 +1,5 @@
-#### Thesis Results Analysis Initial ####
-###  Gora_Thesis_Results_Analysis.R
+#### RootTraitswithN Results Analysis Initial ####
+###  Gora_RootTraitswithN_Results_Analysis.R
 ###  by Sarah Gora
 ###  Date created: Dec 5, 2021
 
