@@ -1,5 +1,5 @@
-#### Thesis Results Analysis-Ordinations ####
-###  Gora_Thesis-Results-Analysis_Ordinations.R
+#### RootTraitswithN Results Analysis-Ordinations ####
+###  Gora_RootTraitswithN-Results-Analysis_Ordinations.R
 ###  by Sarah Gora
 ###  Date created: Jan 25, 2021
 
