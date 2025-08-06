@@ -1,5 +1,5 @@
-#### Manu Results Analysis-Correlation Matrix, Redo with N0N10 ####
-###  Gora_Manu-Results-CorrelationMatrix_Redo.R
+#### RootTraitswithN Results Analysis-Correlation Matrix, Redo with N0N10 ####
+###  Gora_RootTraitswithN-Results-CorrelationMatrix_Redo.R
 ###  by Sarah Gora
 ###  Date created: February 17, 2023
 
