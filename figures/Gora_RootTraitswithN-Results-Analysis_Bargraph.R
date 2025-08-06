@@ -1,5 +1,5 @@
-#### Thesis Results Analysis-Traits Bar Graphs ####
-###  Gora_Thesis-Results-Analysis_Bargraph.R
+#### RootTraitswithN Results Analysis-Traits Bar Graphs ####
+###  Gora_RootTraitswithN-Results-Analysis_Bargraph.R
 ###  by Sarah Gora
 ###  Date created: April 2, 2022
 
