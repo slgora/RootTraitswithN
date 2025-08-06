@@ -1,5 +1,5 @@
-#### Thesis Results Analysis- Linear Regressions ####
-###  Gora_Thesis-Results-Analysis_Regressions.R
+#### RootTraitswithN Results Analysis- Linear Regressions ####
+###  Gora_RootTraitswithN-Results-Analysis_Regressions.R
 ###  by Sarah Gora
 ###  Date created: Jan 13, 2021
 
