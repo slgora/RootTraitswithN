@@ -1,5 +1,5 @@
-#### Thesis Results Analysis-Correlogram ####
-###  Gora_Thesis-Results-Analysis_Correlogram.R
+#### RootTraitswithN Results Analysis-Correlogram ####
+###  Gora_RootTraitswithN-Results-Analysis_Correlogram.R
 ###  by Sarah Gora
 ###  Date created: April 4, 2022
 
