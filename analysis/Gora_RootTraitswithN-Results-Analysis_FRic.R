@@ -1,5 +1,5 @@
-#### Thesis Results Analysis-FRic ####
-###  Gora_Thesis-Results-Analysis_FRic.R
+#### RootTraitswithN Results Analysis-FRic ####
+###  Gora_RootTraitswithN-Results-Analysis_FRic.R
 ###  by Sarah Gora
 ###  Date created: March 28, 2021
 
