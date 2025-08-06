@@ -1,5 +1,5 @@
-#### Thesis Results Analysis-Correlation Matrix ####
-###  Gora_Thesis-Results-CorrelationMatrix.R
+#### RootTraitswithN Results Analysis-Correlation Matrix ####
+###  Gora_RootTraitswithN-Results-CorrelationMatrix.R
 ###  by Sarah Gora
 ###  Date created: Feb 22, 2022
 
