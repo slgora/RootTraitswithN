@@ -1,5 +1,5 @@
 #### Root Traits Paper New Figure for Trait Comparisons -  ####
-###  Gora_Thesis-TraitPairsFigure.R
+###  Gora_RootTraitswithN-TraitPairsFigure.R
 ###  by Sarah Gora
 ###  Date created: Jan 17, 2024
 
