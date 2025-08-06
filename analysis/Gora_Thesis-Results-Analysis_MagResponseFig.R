@@ -1,6 +1,6 @@
-#### Thesis Results Analysis-Magnitude Response Figure ####
-###  #### Thesis Results Analysis ####
-###  Gora_Thesis-Results-Analysis_MagResponseFig.R
+#### RootTraitswithN Results Analysis-Magnitude Response Figure ####
+###  #### RootTraitswithN Results Analysis ####
+###  Gora_RootTraitswithN-Results-Analysis_MagResponseFig.R
 ###  by Sarah Gora
 ###  Date created: Nov 17, 2023
 
