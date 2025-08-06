@@ -1,5 +1,5 @@
-#### Thesis Results Analysis- FDis and Betadisper ####
-###  Gora_Thesis-Results-Analysis_FDis.R
+#### RootTraitswithN Results Analysis- FDis and Betadisper ####
+###  Gora_RootTraitswithN-Results-Analysis_FDis.R
 ###  by Sarah Gora
 ###  Date created: March 7, 2022
 
